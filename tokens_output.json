@@ -1,0 +1,556 @@
+[
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 1,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "1.0",
+      "linha": 1,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "1.0",
+      "linha": 1,
+      "coluna": 6
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "+",
+      "linha": 1,
+      "coluna": 10
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 1,
+      "coluna": 11
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 2,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "99.9",
+      "linha": 2,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "0.1",
+      "linha": 2,
+      "coluna": 7
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "-",
+      "linha": 2,
+      "coluna": 11
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 2,
+      "coluna": 12
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 3,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "0.5",
+      "linha": 3,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "8.0",
+      "linha": 3,
+      "coluna": 6
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "*",
+      "linha": 3,
+      "coluna": 10
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 3,
+      "coluna": 11
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 4,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "7.0",
+      "linha": 4,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "3.0",
+      "linha": 4,
+      "coluna": 6
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "/",
+      "linha": 4,
+      "coluna": 10
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 4,
+      "coluna": 11
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 5,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "43",
+      "linha": 5,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "5",
+      "linha": 5,
+      "coluna": 5
+    },
+    {
+      "tipo": "INTDIV",
+      "valor": "//",
+      "linha": 5,
+      "coluna": 7
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 5,
+      "coluna": 9
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 6,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "43",
+      "linha": 6,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "5",
+      "linha": 6,
+      "coluna": 5
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "%",
+      "linha": 6,
+      "coluna": 7
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 6,
+      "coluna": 8
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 7,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "2.0",
+      "linha": 7,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "8",
+      "linha": 7,
+      "coluna": 6
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "^",
+      "linha": 7,
+      "coluna": 8
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 7,
+      "coluna": 9
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 8,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "9.81",
+      "linha": 8,
+      "coluna": 2
+    },
+    {
+      "tipo": "MEM_ID",
+      "valor": "GRAVIDADE",
+      "linha": 8,
+      "coluna": 7
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 8,
+      "coluna": 16
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 9,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "72.0",
+      "linha": 9,
+      "coluna": 2
+    },
+    {
+      "tipo": "MEM_ID",
+      "valor": "MASSA",
+      "linha": 9,
+      "coluna": 7
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 9,
+      "coluna": 12
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 10,
+      "coluna": 1
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 10,
+      "coluna": 2
+    },
+    {
+      "tipo": "MEM_ID",
+      "valor": "MASSA",
+      "linha": 10,
+      "coluna": 3
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 10,
+      "coluna": 8
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 10,
+      "coluna": 10
+    },
+    {
+      "tipo": "MEM_ID",
+      "valor": "GRAVIDADE",
+      "linha": 10,
+      "coluna": 11
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 10,
+      "coluna": 20
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "*",
+      "linha": 10,
+      "coluna": 22
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 10,
+      "coluna": 23
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 11,
+      "coluna": 1
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "0",
+      "linha": 11,
+      "coluna": 2
+    },
+    {
+      "tipo": "KW_RES",
+      "valor": "RES",
+      "linha": 11,
+      "coluna": 4
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 11,
+      "coluna": 7
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 12,
+      "coluna": 1
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 12,
+      "coluna": 2
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "100.0",
+      "linha": 12,
+      "coluna": 3
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 12,
+      "coluna": 9
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "3.0",
+      "linha": 12,
+      "coluna": 10
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "2.0",
+      "linha": 12,
+      "coluna": 14
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "+",
+      "linha": 12,
+      "coluna": 18
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 12,
+      "coluna": 19
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "/",
+      "linha": 12,
+      "coluna": 21
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 12,
+      "coluna": 22
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 12,
+      "coluna": 24
+    },
+    {
+      "tipo": "MEM_ID",
+      "valor": "MASSA",
+      "linha": 12,
+      "coluna": 25
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 12,
+      "coluna": 30
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "+",
+      "linha": 12,
+      "coluna": 32
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 12,
+      "coluna": 33
+    }
+  ],
+  [
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 13,
+      "coluna": 1
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 13,
+      "coluna": 2
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 13,
+      "coluna": 3
+    },
+    {
+      "tipo": "MEM_ID",
+      "valor": "GRAVIDADE",
+      "linha": 13,
+      "coluna": 4
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 13,
+      "coluna": 13
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "2.0",
+      "linha": 13,
+      "coluna": 15
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "^",
+      "linha": 13,
+      "coluna": 19
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 13,
+      "coluna": 20
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 13,
+      "coluna": 22
+    },
+    {
+      "tipo": "LPAREN",
+      "valor": "(",
+      "linha": 13,
+      "coluna": 23
+    },
+    {
+      "tipo": "MEM_ID",
+      "valor": "MASSA",
+      "linha": 13,
+      "coluna": 24
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 13,
+      "coluna": 29
+    },
+    {
+      "tipo": "NUMBER",
+      "valor": "10.0",
+      "linha": 13,
+      "coluna": 31
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "/",
+      "linha": 13,
+      "coluna": 36
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 13,
+      "coluna": 37
+    },
+    {
+      "tipo": "OPERATOR",
+      "valor": "-",
+      "linha": 13,
+      "coluna": 39
+    },
+    {
+      "tipo": "RPAREN",
+      "valor": ")",
+      "linha": 13,
+      "coluna": 40
+    }
+  ]
+]
